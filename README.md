@@ -1,22 +1,22 @@
-# Análise Exploratória de Dados
+# Exploratory Data Analysis
 
-Autor: Theresa Rocha
+Author: Theresa Rocha
 
-Ferramenta: Python
+Programming language: Python
 
-## Objetivo
+## Objective
 
-Análise exploratória de dados com algumas informações sobre a população das 100 maiores cidades dos Estados Unidos. 
+Exploratory data analysis with some information about the population of the 100 largest cities in the United States.
 
-Esta análise tem por objetivo responder as seguintes perguntas:
+This analysis has the intention to answer the following questions:
 
-- Qual cidade tem a maior população de acordo com o censo de 2020?
-- Qual tem o menor número de habitantes?
-- Qual o Estado com a menor densidade demográfica? E qual possui a maior quantidade de habitantes por milha quadrada (sq mi)?
-- Qual cidade e Estado possuem a maior área terrestre por milha quadrada? E quais possuem a menor área?
-- Qual o salário mínimo médio por hora por adulto que não possui filhos?
-- Qual o salário mínimo médio por hora por adulto que possui um ou mais filhos?
+- Which city has the largest population according to the 2020 United States Census?
+- Which city has the smallest number of residents?
+- Which state has the lowest population density? And which has the largest number of residents per square mile?
+- Which city and state have the largest land area per square mile? And which ones have the smallest area?
+- What is the average hourly minimum wage per adult who doesn't have children?
+- What is the average hourly minimum wage per adult who has one or more children?
 
-## Fonte dos dados
+## Data Source
 
-Conjunto de dados retirado do Kaggle: https://www.kaggle.com/brandonconrady/living-wage-top-100-cities
+Dataset extracted from Kaggle: https://www.kaggle.com/brandonconrady/living-wage-top-100-cities
