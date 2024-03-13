@@ -5,7 +5,7 @@
 
 # Objective
 
-Exploratory data analysis with some information about the population of the 100 largest cities in the United States.
+Exploratory data analysis with some information about the population of the 100 largest cities in the United States according to the Census 2020.
 This analysis has the intention to answer the following questions:
 
 - Which city has the largest population according to the 2020 United States Census?
