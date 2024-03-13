@@ -1,7 +1,7 @@
 # Exploratory Data Analysis
 
-Author: Theresa Rocha
-Programming language: Python
+-Author: Theresa Rocha
+-Programming language: Python
 
 # Objective
 
