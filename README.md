@@ -21,8 +21,8 @@ This analysis has the intention to answer the following questions:
 
 # Data Source
 
-Dataset extracted from Kaggle: <([https://www.kaggle.com/datasets/brandonconrady/living-wage-top-100-cities])>
-US States Json from PublicaMundi: <([https://github.com/PublicaMundi/MappingAPI/tree/master/data/geojson])>
+Dataset extracted from Kaggle: <https://www.kaggle.com/datasets/brandonconrady/living-wage-top-100-cities>
+US States Json from PublicaMundi: <https://github.com/PublicaMundi/MappingAPI/tree/master/data/geojson>
 
 
 
