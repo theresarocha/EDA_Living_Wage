@@ -27,48 +27,53 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/4d693be5-3eb0-4e89-9ba4-78d316ff65c4)
 - Photo by Absalom Robinson in Pexels
 
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f9e2b498-347b-4f45-9acf-9498361799d2)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/85c11243-91d5-4a73-abe9-b4040bb51298)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/7d580759-5f85-4626-8f3c-5e7c43415f38)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/425841f4-49da-4883-b756-072825f270ee)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f37e9aa0-21dc-40d1-be2d-d31d1862b1dd)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/541c60ee-66e6-40e2-a664-368a8b61f68b)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/c6492250-20f0-443f-b132-5ae03e199693)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/9ab4595a-b3a1-45e7-89e5-f25be8a588f7)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0167e9e3-568a-4b1d-8f5d-31bde09f2061)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1f37e3f5-f0af-497b-8e1a-dafaec6e79ba)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d67e7f7b-27b4-4e83-af1a-31ae09081a9d)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/5fe26fb7-4a54-41cc-ad17-8ee0c2191a50)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/3b5c787e-0a26-4207-bc78-8b2d59a29289)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/fa8e39ac-1d7b-43de-83e5-3c59e72cee02)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/af160d66-ddcb-45e8-a6b3-c6512879b1c4)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/29cb1232-b56e-4ab3-9d33-676fcddf95c6)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/643458cf-165b-4277-a810-61708ffbbea3)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/746b4dfe-6bf1-468c-b4c2-96961949edcc)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/54e51ff0-9763-4ac4-a898-991c2004a655)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/e1a132c1-82df-42dd-ac36-5a669095321f)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/146361bc-848a-4cf4-89ba-544e4585edfa)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/96cb91cb-3fb7-4387-a1dd-becfabccdd2f)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/cb6fddf0-ccd6-4489-82ca-f994ecd5b72a)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/c9195b26-7624-4871-9405-d6bfd201bc0b)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/5ae01d5c-5ba3-4d40-87b6-ec11d7919fa9)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/073fa8c7-c732-44a0-ad79-258fc25fe21d)
 
 - Curiosities Sources:
 - CuddlyNest: <https://www.cuddlynest.com/blog/facts-about-new-york/>
 - City Sightseeing: <https://city-sightseeing.com/blog/en/facts-about-los-angeles>
 - Choose Chicago: <https://www.choosechicago.com/press-media/toolkit/chicago-facts/>
 
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1a46cfc4-6b98-4cfd-97dc-88a1a6229e5a)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/fbbbf2af-a1e5-4da8-9feb-a6a9fe0db865)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/96e456ed-6669-4c57-82de-9189f6d24c00)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/3ca6fd89-871c-410b-ba4f-fdee60924c89)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/a8b2bb18-107a-4c30-9314-e55d019b2b19)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/ffbc49d2-4d9e-4a75-be9a-d170ac0e9082)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d4b40170-2d96-4ab0-b1f3-84188cc369f3)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/9e24fbab-a65e-4ff1-8baa-ef12cd57f463)
 
 - Curiosities Sources:
 - Facts.Net: <https://facts.net/world/cities/41-facts-about-richmond-va/>
 - BR Proud: <https://www.brproud.com/news/louisiana-news/what-is-baton-rouge-known-for-history-art-music-and-more/>
 - Facts.Net: <https://facts.net/world/cities/33-facts-about-santa-clarita-ca/>
 
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1b94f632-851f-40e9-8db9-249ded132671)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/66dacf4b-1407-457b-9b7d-fdddb93256bd)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/e6dd4566-70a7-4402-bf4a-09abd24d99ce)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/71e367a7-4d90-4321-959a-4b2bf6348685)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/e69e3ecd-b2f7-46ec-99dd-fc2b1ed646ae)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d55bf64b-e1cb-4656-96b9-7a7948c295b6)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/adb0f11c-18e2-4721-9f9c-c61d575db50d)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1996c45c-1bf1-4124-b41d-4fca4bf7b805)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/9d7f5fb8-7ad7-4d77-bcba-023ac4d552a6)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/a10b1331-5664-481a-a366-fe9413b8e440)
 
 - Curiosities Sources:
 - CuddlyNest: <https://www.cuddlynest.com/blog/facts-about-new-york/>
 - Facts.Net: <https://facts.net/world/cities/50-facts-about-jersey-city-nj/>
 - California.com: <https://www.california.com/san-francisco-fun-facts-youll-wish-you-knew/>
 
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0c9f0881-beae-4870-a88e-89607c372b68)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f00effdf-5cb2-4618-ba6c-cc06fc02b003)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/55571978-71a0-43f9-93d9-4acf0318bbec)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/002bb19c-2c52-4225-8042-c621a513ad32)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/00216c63-5da1-4c1a-9427-809337937845)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f5d29a39-d341-4019-a59b-f873b4ec4440)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/90c9026f-2918-4b2b-81ed-f23c3e400753)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/810499cf-03aa-46f6-9d6a-e02f8452e06f)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/470af04a-56df-49c0-ad22-1dfbd715d2fb)
 
 - Curiosities Sources:
 - Anchorage.Net: <https://www.anchorage.net/blog/post/9-surprising-things-about-anchorage-alaska/>
