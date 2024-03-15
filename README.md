@@ -87,11 +87,15 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/089b60eb-8dfa-44bd-ae71-94579674ebfe)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/66cd45b8-7cca-48d3-8667-3947b00e6fa0)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/35a69876-ad84-48ce-8fe4-1ed3c966496f)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/8c08a735-32d4-441f-9938-31d8f2f92ee0)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d620c142-561b-4fad-8c11-5acedcca7795)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/8c08a735-32d4-441f-9938-31d8f2f92ee0)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0b83d3db-5326-409a-813d-84154c5e82fa)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d2ca7385-c805-4210-b2f2-d6039ee29801)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/269674e0-518a-466b-956c-122c45dfe743)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/3944e860-2465-48a3-8c16-6161d03e9bc6)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/63112b08-785f-4e0c-9fce-f55c21d22ff2)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d11717c6-ab9c-4f20-aaf3-2ff16a9e2b7b)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/51e656f7-ac6c-4225-8563-de828e073860)
 
 
 
