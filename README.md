@@ -28,7 +28,8 @@ This analysis has the intention to answer the following questions:
 *Photo by Absalom Robinson in Pexels
 
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f9e2b498-347b-4f45-9acf-9498361799d2)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d403f869-2f5b-46b5-82e1-86732f4533bd)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/85c11243-91d5-4a73-abe9-b4040bb51298)
+
 
 
 
