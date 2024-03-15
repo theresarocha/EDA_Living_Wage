@@ -41,6 +41,7 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/cb6fddf0-ccd6-4489-82ca-f994ecd5b72a)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/c9195b26-7624-4871-9405-d6bfd201bc0b)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/5ae01d5c-5ba3-4d40-87b6-ec11d7919fa9)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/78149c3c-a641-4971-98c4-c162d6688521)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/073fa8c7-c732-44a0-ad79-258fc25fe21d)
 
 - Curiosities Sources:
