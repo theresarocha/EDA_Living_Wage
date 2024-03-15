@@ -73,7 +73,6 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f5d29a39-d341-4019-a59b-f873b4ec4440)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/90c9026f-2918-4b2b-81ed-f23c3e400753)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/810499cf-03aa-46f6-9d6a-e02f8452e06f)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/470af04a-56df-49c0-ad22-1dfbd715d2fb)
 
 - Curiosities Sources:
 - Anchorage.Net: <https://www.anchorage.net/blog/post/9-surprising-things-about-anchorage-alaska/>
