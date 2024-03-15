@@ -52,6 +52,7 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/a8b2bb18-107a-4c30-9314-e55d019b2b19)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/ffbc49d2-4d9e-4a75-be9a-d170ac0e9082)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d4b40170-2d96-4ab0-b1f3-84188cc369f3)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0bb43b96-3db2-4d17-93c6-76aa3cc35154)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/9e24fbab-a65e-4ff1-8baa-ef12cd57f463)
 
 - Curiosities Sources:
@@ -61,8 +62,10 @@ This analysis has the intention to answer the following questions:
 
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d55bf64b-e1cb-4656-96b9-7a7948c295b6)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/adb0f11c-18e2-4721-9f9c-c61d575db50d)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/697073e9-7848-4f84-817b-e0db0c72c836)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1996c45c-1bf1-4124-b41d-4fca4bf7b805)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/9d7f5fb8-7ad7-4d77-bcba-023ac4d552a6)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/be506609-c7cb-40e7-8203-362f17ca1227)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/a10b1331-5664-481a-a366-fe9413b8e440)
 
 - Curiosities Sources:
@@ -73,6 +76,7 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/00216c63-5da1-4c1a-9427-809337937845)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f5d29a39-d341-4019-a59b-f873b4ec4440)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/90c9026f-2918-4b2b-81ed-f23c3e400753)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/c40b66d1-b7dc-4be6-b71e-240e9d0084ed)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/810499cf-03aa-46f6-9d6a-e02f8452e06f)
 
 - Curiosities Sources:
@@ -81,7 +85,10 @@ This analysis has the intention to answer the following questions:
 - Fun World Facts: <https://funworldfacts.com/oklahoma-america/>
 
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/41182c6d-8dc9-4e76-8371-19afd04ab83e)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/05acd724-7b13-4442-85c2-cb131e137de7)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1dd46b73-a72e-4430-9ac1-7a8ebe352e3c)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/26887e18-04fa-48e1-a192-7e1bbe537bef)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/a3f3472f-e515-4075-bbbf-9539042b2cb6)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/2c011e71-2e64-4cf2-8955-81c170b2736a)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/788c773b-0715-42af-bbef-67201add1391)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/5de4778f-c2a2-4067-b04d-3488776c2a4f)
