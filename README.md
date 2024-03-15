@@ -22,12 +22,8 @@ This analysis has the intention to answer the following questions:
 - Dataset extracted from Kaggle: <https://www.kaggle.com/datasets/brandonconrady/living-wage-top-100-cities>
 - US States Json from PublicaMundi: <https://github.com/PublicaMundi/MappingAPI/tree/master/data/geojson>
 
-#Importing dataset
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/f9e2b498-347b-4f45-9acf-9498361799d2)
 
-import pandas as pd
-
-url = 'https://raw.githubusercontent.com/theresarocha/EDA_Living_Wage/main/livingwage%20(2).csv'
-data = pd.read_csv(url)
 
 
 
