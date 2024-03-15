@@ -38,8 +38,8 @@ This analysis has the intention to answer the following questions:
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/3608a6a7-25c4-4d81-8041-a5b65e63276a)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/9781ec2a-95fc-432d-beca-c0b728012529)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/28b9f6b3-b100-4ef3-9c16-66d5c6c32e04)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0167e9e3-568a-4b1d-8f5d-31bde09f2061)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1f37e3f5-f0af-497b-8e1a-dafaec6e79ba)
+- ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0167e9e3-568a-4b1d-8f5d-31bde09f2061)
+- ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1f37e3f5-f0af-497b-8e1a-dafaec6e79ba)
 ![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d67e7f7b-27b4-4e83-af1a-31ae09081a9d)
 
 - Curiosities Sources:
