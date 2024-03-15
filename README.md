@@ -84,17 +84,15 @@ This analysis has the intention to answer the following questions:
 - Facts.Net: <https://facts.net/world/cities/33-facts-about-chesapeake-va/>
 - Fun World Facts: <https://funworldfacts.com/oklahoma-america/>
 
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/41182c6d-8dc9-4e76-8371-19afd04ab83e)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/05acd724-7b13-4442-85c2-cb131e137de7)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/1dd46b73-a72e-4430-9ac1-7a8ebe352e3c)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/26887e18-04fa-48e1-a192-7e1bbe537bef)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/a3f3472f-e515-4075-bbbf-9539042b2cb6)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/2c011e71-2e64-4cf2-8955-81c170b2736a)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/788c773b-0715-42af-bbef-67201add1391)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/5de4778f-c2a2-4067-b04d-3488776c2a4f)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/00e13b21-6fbe-4b7e-b552-b32af6c1a86e)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/6a87f84d-07a4-44a7-a505-593cb4190a32)
-![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/060923b2-5a44-4445-90f5-03fd07c5c434)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/089b60eb-8dfa-44bd-ae71-94579674ebfe)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/66cd45b8-7cca-48d3-8667-3947b00e6fa0)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/35a69876-ad84-48ce-8fe4-1ed3c966496f)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/8c08a735-32d4-441f-9938-31d8f2f92ee0)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d620c142-561b-4fad-8c11-5acedcca7795)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/0b83d3db-5326-409a-813d-84154c5e82fa)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/d2ca7385-c805-4210-b2f2-d6039ee29801)
+![image](https://github.com/theresarocha/EDA_Living_Wage/assets/84404461/269674e0-518a-466b-956c-122c45dfe743)
+
 
 
 
